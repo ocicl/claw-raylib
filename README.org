@@ -1,0 +1,10 @@
+* claw-raylib
+
+Fully auto-generated Common Lisp bindings to Raylib and Raygui using
+claw and cffi-object
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/claw-raylib.git |
+| commit  | e5cc129                                            |
+| systems | claw-raylib                                        |
+|---------+----------------------------------------------------|
