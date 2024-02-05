@@ -5,6 +5,6 @@ claw and cffi-object
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/bohonghuang/claw-raylib.git |
-| commit  | dabb9da                                            |
+| commit  | 9027154                                            |
 | systems | claw-raylib                                        |
 |---------+----------------------------------------------------|
